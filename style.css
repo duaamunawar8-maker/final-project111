@@ -1,0 +1,161 @@
+div {
+    display: inline-block;
+   
+
+}
+
+.start {
+   
+    border-radius: 10px;
+background-color: hotpink;
+color: aliceblue;
+}
+
+nav{ 
+    margin: 10px;
+    padding: 7px;
+    border: 10px;
+    text-decoration: none; 
+    background-color:#831843
+    
+    }
+    
+
+.About {
+    margin-right: 20px;
+  
+     text-decoration: none;
+     font-weight: bold;
+     color: #FBCFE8;
+    
+}
+
+.Services {
+    margin-right: 20px;
+  
+     text-decoration: none;
+     font-weight: bold;
+      
+         color: #FBCFE8;
+        
+}
+.NOVA{
+    margin-right: 200px;
+    font-weight: 700; 
+    color: aliceblue;
+   
+.Selected{
+    margin-right: 20px;
+  
+     text-decoration: none;
+     font-weight: bold; 
+  
+        color: #FBCFE8;
+        
+}
+     
+}
+.Reviews{
+    margin-right: 150px;
+  
+     text-decoration: none;
+     font-weight: bold;
+    
+         color: #FBCFE8;
+          
+}
+
+.PL{
+    margin-right: 20px;
+    color: #64748B;
+   
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+   
+}
+
+
+
+.pro{
+   
+    border-radius: 5px; 
+    background-color: #FF6B6B;
+    color: azure;
+}
+.meet{
+
+border-radius: 5px;
+color: #FF6B6B;
+    background-color: azure;
+}
+
+
+.b{
+
+
+border: 80px;
+
+width: 100%;
+height: 200px; 
+border: #ffffff;
+
+
+}
+a{
+    text-decoration: none;
+    color: #500724
+      text-align: end;
+}
+.p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.main{
+    background-color: #F472B6;
+}
+
+.second{
+
+  color: #500724;
+}
+.third{
+    color: #831843;
+}
+.forth{
+ background-color: #EC4899 ;
+    color: #ffffff;
+}
+.fifth
+{
+background-color: #EC4899 ;
+    color: #ffffff;
+}
+.sixth
+{
+    color: #EC4899 ;
+    background-color: #ffffff;
+}
+.services{
+    background-color: #FFF1F2;
+}
+
+.p{
+    background-color: #FFF1F2;
+    color: #831843;
+}
+.q{
+    color: #8E185D;
+}
+b{
+   color:  #BE185D;
+}
+.cl{
+    color: #831843;
+}
+.root{
+    background-color: #FCE7F3;
+}
+.sev{
+    color:#8E185D;
+}
